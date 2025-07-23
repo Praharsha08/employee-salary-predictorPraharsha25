@@ -12,8 +12,7 @@ This is a web-based **Employee Salary Predictor** built using **Streamlit**. It 
 
 ## 🚀 Demo
 
-> 👉 [Click here to try the live app]  
-(*Replace with your Streamlit Cloud link after deploying*)
+> 👉 [Click here to try the live app] http://salary-predictor-praharsha.streamlit.app  
 
 ---
 
